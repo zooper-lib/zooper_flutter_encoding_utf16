@@ -1,7 +1,7 @@
 name: zooper_flutter_encoding_utf16
 description: Helper classes to encode and decode UTF16 string to List<int>
 version: 0.0.1
-homepage:
+homepage: https://github.com/zooper-lib
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
